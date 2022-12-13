@@ -1,4 +1,5 @@
 //Ver 1.1
+//Temp com
 /****************************************
 *   Wzorzec Projektowy Builder          *
 *   (budowniczy)                        *  
