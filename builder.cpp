@@ -1,4 +1,4 @@
-// Ver 1.1
+//Ver 1.1
 /****************************************
 *   Wzorzec Projektowy Builder          *
 *   (budowniczy)                        *  
